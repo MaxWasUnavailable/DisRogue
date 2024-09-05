@@ -2,5 +2,6 @@ extensions:
   - core
   - error
   - command_logging
+  - roguelike
 logs_path: logs
 debug: false
